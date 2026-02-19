@@ -1,0 +1,44 @@
+{
+    "employees": [
+        {
+            "emp_id": 101,
+            "name": "Amit",
+            "department": "IT",
+            "salary": 55000,
+            "experience_years": 2,
+            "performance_score": 7.5
+        },
+        {
+            "emp_id": 102,
+            "name": "Neha",
+            "department": "HR",
+            "salary": 48000,
+            "experience_years": 3,
+            "performance_score": 8.2
+        },
+        {
+            "emp_id": 103,
+            "name": "Rahul",
+            "department": "Finance",
+            "salary": 62000,
+            "experience_years": 5,
+            "performance_score": 8.9
+        },
+        {
+            "emp_id": 104,
+            "name": "Priya",
+            "department": "IT",
+            "salary": 70000,
+            "experience_years": 6,
+            "performance_score": 9.1
+        },
+        {
+            "emp_id": 105,
+            "name": "Sneha",
+            "department": "Marketing",
+            "salary": 45000,
+            "experience_years": 1,
+            "performance_score": 6.8
+        }
+    ]
+}
